@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\0564db8f3c411d1b2d54ca0894d9e125\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\3788f3b56b5ecd3ba5f93b17ed23495d\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\2e032163d044f75b073b8760139469e1\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\5f47bc78772774c42c3ac720801b114a\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\244ef357b56a14efb564242d31e2b301\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\9c2b960703e784148d4fb7c41d5804a8\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\6bfff6f8b01c41d27511c993274cadf0\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\b22695fba279fbd04b4ce4b15f78a65a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\4ae9c9e30e5f7467371f8e6cad9427a5\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\4883eaa0c11a69b75cb7c8c979b28503\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\8addf41d16e93bbc42811ccd1421f03b\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a4db8479c16444c563622389a0014a2b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\282cc9c0150c4cd87b74820d4c0b10e8\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\9fba2b31069be19a90468450a9b8ceea\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\af3b5758ae65b92de2098fe2a3591fe5\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\011bc81d5941e228835d6bed2e1bba3c\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\7f7c09273c940c0efb3dc5ca565f0de3\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\b3c08daf8d06a721ec009be3217bda5e\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\f3397d3a2e4abb85883c1034e6547d26\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\4076ad87748e3f84a46c96c07d5b96c5\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\9457f161d0b18eec6bb373aba899aa95\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\2e2076e6216b29ee97192fe17edf1ebc\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\606b93441c07d8d15925b718d269725c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\8a9655c2025fb4f929ac17e42267fa1f\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a6155a491a7e57271f3783cb9f887c21\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\6fa4e7d40a20939e6bed79183e68f4dc\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a9cce7566000a40f1d3d79d456cd1d49\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\7e1d9b5c301c695a5e7e28c06a3f07e4\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\b762e7c274231f2e81915c00b7b6d5cb\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\b79078ce79d3f3fb09c0349fc55b78c9\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a92083e0932286508a8874e8ad8082b7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\18070356388d097f259fe94ef69a35c5\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\3b8ac2fc3a6b04ec3043adbbf861ba5a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\d3a31779f421707e509b7f43829e4b5b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\e655ddd75e346a3057997bda6b53bc0d\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\0564db8f3c411d1b2d54ca0894d9e125\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\0564db8f3c411d1b2d54ca0894d9e125\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\5f47bc78772774c42c3ac720801b114a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\5f47bc78772774c42c3ac720801b114a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\2e2076e6216b29ee97192fe17edf1ebc\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\2e2076e6216b29ee97192fe17edf1ebc\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a6155a491a7e57271f3783cb9f887c21\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a6155a491a7e57271f3783cb9f887c21\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\2e2076e6216b29ee97192fe17edf1ebc\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:12:13-39
+	android:label
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:10:13-45
+	android:roundIcon
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:11:13-58
+	android:icon
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:13:13-44
+activity#com.azhar.jadwalsholat.MainActivity
+ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\0564db8f3c411d1b2d54ca0894d9e125\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\0564db8f3c411d1b2d54ca0894d9e125\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\3788f3b56b5ecd3ba5f93b17ed23495d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\3788f3b56b5ecd3ba5f93b17ed23495d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\2e032163d044f75b073b8760139469e1\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\2e032163d044f75b073b8760139469e1\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\5f47bc78772774c42c3ac720801b114a\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\5f47bc78772774c42c3ac720801b114a\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\244ef357b56a14efb564242d31e2b301\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\244ef357b56a14efb564242d31e2b301\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\9c2b960703e784148d4fb7c41d5804a8\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\9c2b960703e784148d4fb7c41d5804a8\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\6bfff6f8b01c41d27511c993274cadf0\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\6bfff6f8b01c41d27511c993274cadf0\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\b22695fba279fbd04b4ce4b15f78a65a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\b22695fba279fbd04b4ce4b15f78a65a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\4ae9c9e30e5f7467371f8e6cad9427a5\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\4ae9c9e30e5f7467371f8e6cad9427a5\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\4883eaa0c11a69b75cb7c8c979b28503\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\4883eaa0c11a69b75cb7c8c979b28503\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\8addf41d16e93bbc42811ccd1421f03b\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\8addf41d16e93bbc42811ccd1421f03b\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a4db8479c16444c563622389a0014a2b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a4db8479c16444c563622389a0014a2b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\282cc9c0150c4cd87b74820d4c0b10e8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\282cc9c0150c4cd87b74820d4c0b10e8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\9fba2b31069be19a90468450a9b8ceea\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\9fba2b31069be19a90468450a9b8ceea\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\af3b5758ae65b92de2098fe2a3591fe5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\af3b5758ae65b92de2098fe2a3591fe5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\011bc81d5941e228835d6bed2e1bba3c\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\011bc81d5941e228835d6bed2e1bba3c\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\7f7c09273c940c0efb3dc5ca565f0de3\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\7f7c09273c940c0efb3dc5ca565f0de3\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\b3c08daf8d06a721ec009be3217bda5e\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\b3c08daf8d06a721ec009be3217bda5e\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\f3397d3a2e4abb85883c1034e6547d26\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\f3397d3a2e4abb85883c1034e6547d26\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\4076ad87748e3f84a46c96c07d5b96c5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\4076ad87748e3f84a46c96c07d5b96c5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\9457f161d0b18eec6bb373aba899aa95\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\9457f161d0b18eec6bb373aba899aa95\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\2e2076e6216b29ee97192fe17edf1ebc\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\2e2076e6216b29ee97192fe17edf1ebc\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\606b93441c07d8d15925b718d269725c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\606b93441c07d8d15925b718d269725c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\8a9655c2025fb4f929ac17e42267fa1f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\8a9655c2025fb4f929ac17e42267fa1f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a6155a491a7e57271f3783cb9f887c21\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a6155a491a7e57271f3783cb9f887c21\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\6fa4e7d40a20939e6bed79183e68f4dc\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\6fa4e7d40a20939e6bed79183e68f4dc\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a9cce7566000a40f1d3d79d456cd1d49\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a9cce7566000a40f1d3d79d456cd1d49\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\7e1d9b5c301c695a5e7e28c06a3f07e4\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\7e1d9b5c301c695a5e7e28c06a3f07e4\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\b762e7c274231f2e81915c00b7b6d5cb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\b762e7c274231f2e81915c00b7b6d5cb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\b79078ce79d3f3fb09c0349fc55b78c9\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\b79078ce79d3f3fb09c0349fc55b78c9\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a92083e0932286508a8874e8ad8082b7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\a92083e0932286508a8874e8ad8082b7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\18070356388d097f259fe94ef69a35c5\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\18070356388d097f259fe94ef69a35c5\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\3b8ac2fc3a6b04ec3043adbbf861ba5a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\3b8ac2fc3a6b04ec3043adbbf861ba5a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\d3a31779f421707e509b7f43829e4b5b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\d3a31779f421707e509b7f43829e4b5b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\e655ddd75e346a3057997bda6b53bc0d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\PLJC-PC\.gradle\caches\transforms-2\files-2.1\e655ddd75e346a3057997bda6b53bc0d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ivan Prasetya\Tingkat 3\Pemrograman Mobile Application\JadwalSholat\JadwalSholat\app\src\main\AndroidManifest.xml
